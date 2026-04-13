@@ -2,7 +2,7 @@
 
 I'm a Lead Software Engineer based in Odesa, Ukraine 🇺🇦, specializing in Ruby on Rails and high-load backend systems. I've spent 15+ years building things that need to work — reliably, at scale, under pressure.
 
-Previously at **Shopify** 🛍️, where I worked on Billing and Financial Reconciliation infrastructure processing hundreds of thousands of transactions per day — including horizontal sharding of terabyte-scale data via Vitess. Currently at **PeopleForce** as technical lead on a high-load HRM SaaS platform serving thousands of companies worldwide.
+Previously at **Shopify** 🛍️, where I worked on Billing and Financial Reconciliation infrastructure processing hundreds of thousands of transactions per day — including horizontal sharding of terabyte-scale data via Vitess. Currently at **PeopleForce** as technical lead on an HRM SaaS platform serving thousands of companies worldwide.
 
 ---
 
@@ -39,4 +39,3 @@ Previously at **Shopify** 🛍️, where I worked on Billing and Financial Recon
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/homenko)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergey@mm.st)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sergey_homenko)
