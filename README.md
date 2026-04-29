@@ -9,8 +9,8 @@ Previously at **Shopify** 🛍️, where I worked on Billing and Financial Recon
 ## 🛠️ Tech Stack
 
 **Core**
-- 💎 Ruby · Ruby on Rails · SQL
-- 🐘 PostgreSQL · MySQL · MongoDB
+- ♦️ Ruby · Ruby on Rails
+- 🐘 PostgreSQL · MySQL · SQL
 
 **Scale & Performance**
 - 🔀 Horizontal sharding · Vitess · Database partitioning
